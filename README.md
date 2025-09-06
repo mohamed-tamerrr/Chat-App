@@ -13,3 +13,4 @@ This project serves as a starting point for learning Flutter and building scalab
 - Easy to customize and extend
 
 ---
+![Logo](Screenshot_1755454662.png)
